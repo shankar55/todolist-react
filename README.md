@@ -8,8 +8,7 @@ HTML, CSS, Bootstrap, ReactJS...
 ## Deployment
 
 [Explore ToDoList](https://shankar55.github.io/todolist-react/)
-
-![ToDoList Preview](https://shankar55.github.io/todolist-react/images/todolist.PNG)
+<img src="/images/todolist.PNG">
 
 ## Authors
 
