@@ -6,8 +6,8 @@ ToDoList is a simple application designed to add small tasks in the form of a li
 HTML, CSS, Bootstrap, ReactJS...
 
 ## Deployment
-
 [Explore ToDoList](https://shankar55.github.io/todolist-react/)
+
 <img src="/images/todolist.PNG">
 
 ## Authors
